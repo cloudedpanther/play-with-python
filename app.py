@@ -1,1 +1,4 @@
-print('so smooth')
+icecream = "so cool"
+
+print(icecream)
+print(icecream[0:4])
